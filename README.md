@@ -16,8 +16,5 @@ Sua aplicação deverá conter:
 
 - Uma opção para listar o resultado de uma consulta que envolva subconsulta(s) e uma ou mais funções de agregação.
 
-Importante: 
 
-    antes de iniciar seu trabalho, corrija seu esquema relacional de acordo com os apontamentos de correção passados pela professora no primeiro trabalho se for o caso. Recomenda-se entrar em contato com a professora para validação do esquema relacional após a correção ter sido efetuada pela equipe
-    todos os fontes e o banco de dados devem ser colocados em um repositório no github com acesso público (ou designado à professora), cujo link deverá ser passado na entrega deste trabalho
-    a equipe deverá demonstrar o aplicativo em funcionamento para a professora com todas as funções implementadas. A demonstração deverá ocorrer em uma das aulas da última semana com horário previamente definido . 
+![ModeloConceitual](https://github.com/deboralawall/BAN1/assets/86936640/87a07f30-055e-44d0-9f71-bfb4695efc57)
