@@ -1,4 +1,4 @@
-Projeto Final - Fase 2
+Projeto Final Banco de Dados
 
 Este trabalho visa utilizar uma API Relacional para criar uma aplicação simples sobre o BD relacional proposto no primeiro projeto da disciplina (Projeto de BD Relacional). 
 
