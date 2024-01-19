@@ -1,6 +1,6 @@
-Projeto Final Banco de Dados
+Projeto de Banco de Dados
 
-Este trabalho visa utilizar uma API Relacional para criar uma aplicação simples sobre o BD relacional proposto no primeiro projeto da disciplina (Projeto de BD Relacional). 
+Este trabalho visa utilizar uma API Relacional para criar uma aplicação simples sobre o BD relacional. A aplicação terá:
 
 - Uma opção para inserir novas tuplas da primeira tabela
 
