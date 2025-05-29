@@ -1,7 +1,8 @@
-#🏦 Projeto de Banco de Dados - Agência Bancária
+# 🏦 Projeto de Banco de Dados - Agência Bancária
 
 Um sistema bancário relacional desenvolvido com API e banco de dados SQL
-##📌 Visão Geral
+
+## 📌 Visão Geral
 
 Este projeto visa implementar uma aplicação simples de agência bancária utilizando:
 ✅ API Relacional para integração de dados
